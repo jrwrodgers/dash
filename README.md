@@ -1,3 +1,5 @@
+![image](images/dash_logo.png)
+
 This is information about the fpv frame
 
 Latest updates:
@@ -9,7 +11,7 @@ Latest updates:
 - Aerial and Fin print is designed for a Rush Cherry 2
   
 
-![image](images/dash_logo.png)
+
 
 ![image](images/complete.png)
 
