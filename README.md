@@ -10,7 +10,17 @@ Latest updates:
 - VTX is has no fixings but is held on stack with tpu nubs on underside of top plate
 - Aerial and Fin print is designed for a Rush Cherry 2
   
-
+Specs:
+Motor to Motor Left Right = 132.1 mm
+Motor to Motor Front Back = 156.1 mm
+Motor to Motor Diagonal = 204.5 mm
+Standoff Spacing Left Right = 24 mm
+Standoff Spacing Front Back = 48 mm
+Battery Strap Width = 20 mm
+Arm Thickness = 6mm
+Arm Angle = 90 deg
+Mid Plate Width = 34 mm
+Motor Mount Diagonal = 16 mm (22xx motors)
 
 
 ![image](images/complete.png)
