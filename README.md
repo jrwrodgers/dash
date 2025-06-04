@@ -10,6 +10,8 @@ Latest updates:
 
 ![image](images/dash_logo.png)
 
+![image](images/complete.png)
+
 ![image](images/frame.png)
 
 ![image](images/frame_above.png)
