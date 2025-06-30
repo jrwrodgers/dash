@@ -5,7 +5,7 @@ The aim of this frame design was to create something:
  - 20x20mm compatible.
  - Some extra space to allow all ESC types to fit. A little extra body width and standoff spacing is a small cost for wider compatibility.
  - Strong enough to survive a few hard crashes yet still flies well enough to be comptitive at the cost of a few grams. More flying = flying faster!
- - The amrs are boomerang since this stiffness improvement and hence handling were considered more important than changing a few extra bolts and reduced strength in the overall design.
+ - The arms are boomerang since this stiffness improvement and hence handling were considered more important than changing a few extra bolts and reduced strength in the overall design.
  - A focus has been made on increasing arm and mid plate stiffness through weave orientation and configuration. Stiffer frames move the resonances to higher frequencies allowing less filtering, improved flight performance both in stick following and prop wash.
    
 Latest updates:
