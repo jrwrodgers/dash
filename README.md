@@ -21,6 +21,7 @@ Specs:
 - Arm Angle = 90 deg
 - Mid Plate Width = 34 mm
 - Motor Mount Diagonal = 16 mm (22xx motors)
+- Weight (Including hardware) = 81g
 
 
 ![image](images/complete.png)
