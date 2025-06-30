@@ -36,4 +36,8 @@ Specs:
 
 ![image](images/frame_above.png)
 
+![image](images/20250630_115858.jpg)
+
+![image](images/20250630_115844.jpg)
+
 ![image](images/Logo.png)
