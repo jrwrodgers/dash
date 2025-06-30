@@ -1,7 +1,13 @@
 ![image](images/dash_logo.png)
 
-This is information about the fpv frame
-
+The aim of this frame design was to create something:
+ - Opensource so that the community benefits both in shared design improvements but also in availability and cost through multiple manufacturing paths.
+ - 20x20mm compatible.
+ - Some extra space to allow all ESC types to fit. A little extra body width and standoff spacing is a small cost for wider compatibility.
+ - Strong enough to survive a few hard crashes yet still flies well enough to be comptitive at the cost of a few grams. More flying = flying faster!
+ - The amrs are boomerang since this stiffness improvement and hence handling were considered more important than changing a few extra bolts and reduced strength in the overall design.
+ - A focus has been made on increasing arm and mid plate stiffness through weave orientation and configuration. Stiffer frames move the resonances to higher frequencies allowing less filtering, improved flight performance both in stick following and prop wash.
+   
 Latest updates:
 - Arm width increased and made more uniform along length, arm V web radius increased 
 - Arm V-angle changed to be pure 90 degs to orientate fibres with T700 weave NB - this is now a stretch X frame and will require different pitch and roll tuning. Rear motors should have cleaner air with extra proximity to the front motor wakes.
