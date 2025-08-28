@@ -12,12 +12,12 @@ Version 2
 - Battery Strap width limited to 20mm width to increase mid plate sandwich torsional stiffness
 - VTX is has no fixings but is held on stack with tpu nubs on underside of top plate
 - Aerial and Fin print is designed for a Rush Cherry 2
+- Only one arm failure so far outbord.
 
 
 Version 3
 
 - Due to the much increased strength and stiffness of the V2 the arms have been made narrower for weight saving
-- Only one arm failure so far outbord.
 - Stacks have been lozenged a few times so moving to high tensile steel for the stand off bolts
 - Mid plate includes fixing holes for Gorilla Mounting ESC
 - Bottom plate includes holes for stack bolt access and also to act as a docking pattern for battery pads
