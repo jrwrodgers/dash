@@ -17,6 +17,8 @@ Version 2
 Version 3
 
 - Due to the much increased strength and stiffness of the V2 the arms have been made narrower for weight saving
+- Only one arm failure so far outbord.
+- Stacks have been lozenged a few times so moving to high tensile steel for the stand off bolts
 - Mid plate includes fixing holes for Gorilla Mounting ESC
 - Bottom plate includes holes for stack bolt access and also to act as a docking pattern for battery pads
 - Chassis weight (all hardware is estimate to be ~72g - 16% reduction from V2
