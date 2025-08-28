@@ -1,7 +1,7 @@
 Version 1
 
 - Initial release of the frame
-- Arms failures regular from torsional delamination failure
+- Arms regular failures from torsional delamination
 - Some arm bending modes needed the filters to be set up carefully
 
 Version 2
