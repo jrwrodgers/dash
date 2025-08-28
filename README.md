@@ -8,7 +8,7 @@ The aim of this frame design was to create something:
  - The arms are boomerang since this stiffness improvement and hence handling were considered more important than changing a few extra bolts and reduced strength in the overall design.
  - A focus has been made on increasing arm and mid plate stiffness through weave orientation and configuration. Stiffer frames move the resonances to higher frequencies allowing less filtering, improved flight performance both in stick following and prop wash.
 
-Version History here
+Version History [here](./versions.md)
   
 Specs:
 - Motor to Motor Left Right = 132.1 mm
